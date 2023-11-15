@@ -3,3 +3,4 @@
 Team members:
 
 - Paula Birocchi (@paulabirocchi)
+- Hsunyi Hsieh (@hhsieh)
