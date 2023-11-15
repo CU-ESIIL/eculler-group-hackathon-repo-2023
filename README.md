@@ -2,4 +2,4 @@
 
 Team members:
 - Paula Birocchi (@paulabirocchi)
-- Elsa Culler (@eculler) elsa.culler@colorado.edu
+- Elsa Culler (@eculler)
