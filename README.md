@@ -6,4 +6,6 @@ Team members:
 - Hsunyi Hsieh (@hhsieh)
 - Elsa Culler (@eculler)
 - Roberto Garcia (@garcia-inpe)
+- Lilly Jones
+- Dellena Bloom
 
